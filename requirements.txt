@@ -1,6 +1,6 @@
 streamlit==1.2.0
 pandas==1.3.4
 pycaret==2.3.4
-blosc2~=2.0.0
-ydata_profiling==0.0.3
-streamlit_ydata_profiling==0.0.3
+blosc2
+ydata_profiling
+streamlit_ydata_profiling
